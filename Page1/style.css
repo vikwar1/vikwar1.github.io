@@ -1,0 +1,20 @@
+
+
+div{
+
+    height: 800px;
+width: 800px;
+}
+
+#ruta1{
+
+    background-color: aqua;
+}
+
+#ruta2{
+
+    background-color: darkslategray;
+}
+#container{
+    display:flex
+}
